@@ -23,7 +23,7 @@ def moyenne_classe(d):
 print("affichage de la moyenne de classe: ",moyenne_classe(d))
 
 
-#============fonction qui définit le meilleu étudiant=========
+#============fonction qui définit le meilleu étudiant==========
 def meilleur_etudiant(d):
     meilleur_nom = "" #on définit un nouveau paramètre comme étant vide pour déterminer le meilleur à son "nom"
     meilleure_note = 0 #on définit un nouveau paramètre comme étant nulle pour déterminer le meilleur à sa "note"
